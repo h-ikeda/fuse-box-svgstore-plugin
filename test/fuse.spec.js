@@ -26,7 +26,7 @@ describe('SVGStorePlugin', () => {
       await bundle(SVGStorePlugin());
     });
     it('should export use path ', async () => {
-      // eslint-disable-next-line global-require
+      // eslint-disable-next-line global-require, import/no-unresolved
       const { path1, path2 } = require('./build/bundle');
       assert.strictEqual(path1, '#assets/test1.svg');
       assert.strictEqual(path2, '#assets/test2.svg');

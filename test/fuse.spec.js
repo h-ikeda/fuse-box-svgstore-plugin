@@ -32,7 +32,7 @@ describe('SVGStorePlugin', () => {
       assert.strictEqual(path2, '#assets/test2.svg');
     });
     it('should export svg containing symbol', async () => {
-      // eslint-disable-next-line global-require
+      // eslint-disable-next-line global-require, import/no-unresolved
       const { svg1, svg2 } = require('./build/bundle');
       const actual1 = await svgson.parse(svg1);
       const expected1 = await svgson.parse(`

@@ -1,6 +1,6 @@
 {
   "name": "fuse-box-svgstore-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A FuseBox plugin creating and bundling svg symbol sprites with svgstore.",
   "scripts": {
     "prepare": "tsc",

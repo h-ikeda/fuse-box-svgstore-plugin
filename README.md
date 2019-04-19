@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/h-ikeda/fuse-box-svgstore-plugin.svg?style=svg)](https://circleci.com/gh/h-ikeda/fuse-box-svgstore-plugin)
 # SVGStore Plugin for FuseBox
 This plugin allows you to handling SVG files with [svgstore](https://github.com/svgstore/svgstore) when using [FuseBox](https://fuse-box.org) bundler. It exports SVG texts those are wraped with `<symbol>` elements and path to them. Useful for structuring SVG sprites.
 

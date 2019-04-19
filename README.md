@@ -50,6 +50,7 @@ yarn add --dev fuse-box-svgstore-plugin
        <div>
          <svg class="icon"></svg>
        </div>
+       <!-- Non displayed SVG is injected here by previous step. -->
      </body>
    </html>
    ```

@@ -54,5 +54,7 @@ yarn add --dev fuse-box-svgstore-plugin
    ```
    ```js
    const target = document.body.querySelector('svg.icon');
-   target.innerHTML = `<use xlink:href="${path}"/>`;
+   target.innerHTML = `<use xlink:href="${path}" />`;
    ```
+## Options
+No options available now.

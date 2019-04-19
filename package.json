@@ -28,6 +28,7 @@
     "url": "https://github.com/h-ikeda/fuse-box-svgstore-plugin/issues"
   },
   "homepage": "https://github.com/h-ikeda/fuse-box-svgstore-plugin#readme",
+  "main": "index.js",
   "devDependencies": {
     "@types/node": "^11.13.5",
     "@typescript-eslint/eslint-plugin": "^1.6.0",

@@ -38,7 +38,7 @@
     "fuse-box": "^3.7.1",
     "mocha": "^6.1.4",
     "rimraf": "^2.6.3",
-    "svgson": "^3.1.0",
+    "svgson": "^4.0.0",
     "typescript": "^3.4.4"
   },
   "dependencies": {

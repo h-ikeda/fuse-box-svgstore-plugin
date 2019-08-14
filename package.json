@@ -37,7 +37,7 @@
     "eslint-plugin-import": "^2.17.2",
     "fuse-box": "^3.7.1",
     "mocha": "^6.1.4",
-    "rimraf": "^2.6.3",
+    "rimraf": "^3.0.0",
     "svgson": "^4.0.0",
     "typescript": "^3.4.4"
   },

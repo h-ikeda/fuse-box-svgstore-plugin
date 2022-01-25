@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/h-ikeda/fuse-box-svgstore-plugin#readme",
   "devDependencies": {
-    "@types/node": "^13.1.0",
+    "@types/node": "^17.0.12",
     "@typescript-eslint/eslint-plugin": "^1.6.0",
     "@typescript-eslint/parser": "^1.6.0",
     "eslint": "^5.16.0",
